@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Library & Security Suite",
+  "description": "A high-end Library Management System with integrated CCTV control and AI-driven insights for administrators and students.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
